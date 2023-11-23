@@ -1110,6 +1110,10 @@ button:hover {
 
 }
 @media(max-width:412px){
+    .container {
+        grid-template-columns: 1fr;
+        grid-gap: 1rem;
+    }
  .item-0 img{
     display: none;
  }
@@ -1132,7 +1136,7 @@ button:hover {
 .navbar ul {
     font-size: 12px;
     height: 25px;
-    width: 100%;
+    width: 99%;
     padding-top: 14px;
 }
 .session3bletter p {
