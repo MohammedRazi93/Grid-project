@@ -1128,7 +1128,7 @@ button:hover {
 .content {
     font-size: 26px;
     line-height: 1.7rem;
-    bottom: 500px;
+    bottom: 430px;
     left: 38px;
 }
 .navbar li img {
@@ -1166,5 +1166,7 @@ button:hover {
     height: 75px;
     padding-bottom: 30px;
 }
-
+*{
+    overflow-x: hidden;
+}
 }
