@@ -1120,12 +1120,15 @@ button:hover {
  .item-0a img {
     display: block;
     height: 95vh;
-    width: 105%;
+    width: 100%;
 }
- .content {
+.contact {
+    padding-right: 1px;
+}
+.content {
     font-size: 26px;
     line-height: 1.7rem;
-    bottom: 412px;
+    bottom: 500px;
     left: 38px;
 }
 .navbar li img {
